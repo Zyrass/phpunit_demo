@@ -1,0 +1,17 @@
+{
+    "name": "admin/php-unit",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PhpUnit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alain Guillon",
+            "email": "zyrass@outlook.fr"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    }
+}
